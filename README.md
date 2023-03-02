@@ -14,7 +14,7 @@
 <br>
 
 - US Army Paratrooper Medic and Mass Casualty Coordinator Veteran.
-- Front-End Developer Since 2013.
+- Begagn learning Front-End in 2013.
 - Python & Javascript Programming Education through <a href="https://teamtreehouse.com/profiles/pskinnertech">Treehouse</a>.
 - Personal website [link](https://patrickskinner.tech).
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://drive.google.com/file/d/1AFCtKNVodO3ifFUcuu2IRuc1eIK1tgzH/view?usp=sharing).
