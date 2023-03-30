@@ -14,7 +14,6 @@
 <br>
 
 - US Army Paratrooper Medic and Mass Casualty Coordinator Veteran.
-- Began learning Front-End in 2013.
 - Personal website [link](https://patrickskinner.tech).
 - My Blog: <a href="https://blog.patrickskinner.tech" target="blank"><img align="center"
          src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"
@@ -22,7 +21,7 @@
 - My YouTube: <a href="https://youtube.com/@PSkinnerTech" target="blank"><img align="center"
          src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
          alt="azzar" height="30"/></a>
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://v2.akord.com/public/vaults/active/0ZkwbmDYAfpCeTxlbclBUF0t7goVG6b_Za4K33qEnJE/gallery#public/056d9774-d04d-48c3-803c-dd0621fcfb9f).
+- If you're interested in working with me, here's [my resume](https://v2.akord.com/public/vaults/active/0ZkwbmDYAfpCeTxlbclBUF0t7goVG6b_Za4K33qEnJE/gallery#public/056d9774-d04d-48c3-803c-dd0621fcfb9f).
 
 <br><br>
 
