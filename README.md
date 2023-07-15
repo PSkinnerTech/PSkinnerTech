@@ -177,8 +177,6 @@
 
 <div align='center'>
 
-## <b>My Current Project: <a href="https://agamico.com">AGAMI</a></b>
-
 </div>
 <br>
 <br>
