@@ -101,11 +101,6 @@
 
 <br>
 
-<div align="center">
-  <a href="https://PSkinnerTech.github.io/PSkinnerTech/">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-
 -----
 
 <br>
