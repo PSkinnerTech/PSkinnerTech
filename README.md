@@ -13,7 +13,6 @@
 - My YouTube: <a href="https://youtube.com/@PSkinnerTech" target="blank"><img align="center"
          src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"
          alt="azzar" height="30"/></a>
-- If you're interested in working with me, here's [my resume](https://v2.akord.com/public/vaults/active/0ZkwbmDYAfpCeTxlbclBUF0t7goVG6b_Za4K33qEnJE/gallery#public/333aff22-1d2a-41c9-8b58-cd2da2ca74ba).
 
 <br><br>
 
