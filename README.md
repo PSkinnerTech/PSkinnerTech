@@ -21,6 +21,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
+<a href="https://gitroll.io/profile/uoN5GpDuXyiMJRvuzXp3morkGeTJ2" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uoN5GpDuXyiMJRvuzXp3morkGeTJ2" alt="GitRoll Profile Badge"/></a>
 [![PSkinnerTech's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSkinnerTech)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center">
