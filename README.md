@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Patrick Skinner</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  🚀 Developer Relations Advocate | 🎥 Content Creator | 💻 Web3 Enthusiast <br>
+  👨‍💻 Developer Relations Engineer | 🎥 Content Creator | ₿ Web3 Enthusiast <br>
   🌍 Exploring tech, storytelling, and the future of decentralized web.
 </p>
 
@@ -57,4 +57,4 @@
 
 ---
 
-_Last Updated: 12/17/2024_
+_Last Updated: 3/4/2025_
