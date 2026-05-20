@@ -16,6 +16,26 @@
 
 ---
 
+## What I'm Doing Now
+
+### **Writing**
+- [Blog](https://blog.patrickskinner.tech)
+- [Substack](https://substack.com/@patskinner)
+
+### **Building**
+- [3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
+- [openclaw-geo-seo-audit-skill](https://github.com/PSkinnerTech/openclaw-geo-seo-audit-skill)
+- [local-eye-tracking](https://github.com/PSkinnerTech/local-eye-tracking)
+- [mackenzie-voice-tool](https://github.com/PSkinnerTech/mackenzie-voice-tool)
+- [alpha-style](https://github.com/PSkinnerTech/alpha-style)
+
+### **My Work**
+- General Manager @ [Superbuilders](https://superbuilders.dev)
+- Building for [Alpha School](https://alpha.school/)
+- Mentor and Lead Instructor at [Gauntlet AI](https://gauntletai.com)
+
+---
+
 ## 💻 Skills Overview
 
 ### **Languages**
@@ -57,4 +77,4 @@
 
 ---
 
-_Last Updated: 3/4/2025_
+_Last Updated: 5/20/2026_
