@@ -1,49 +1,45 @@
-<h1 align="center"><b>Hi, I'm Patrick Skinner</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# Patrick Skinner
 
-<p align="center">
-  👨‍💻 AI Engineer | Educator | Learning Science Engineer <br>
-  🌍 On a mission to accelerate educational outcomes for 1 billion students.
-</p>
+**AI Engineer · Learning Science Engineer · Educator**
 
----
-
-## 🌟 About Me
-
-- 🪂 **Veteran**: Former US Army Paratrooper Medic and Mass Casualty Coordinator.
-- 🌐 **Website**: [patrickskinner.tech](https://patrickskinner.tech)
-- 📝 **Blog**: [blog.patrickskinner.tech](https://blog.patrickskinner.tech)
-- 📺 **YouTube**: [PSkinnerTech](https://youtube.com/@PSkinnerTech)
+Building AI tutoring infrastructure that helps students learn faster.
+At [Alpha School](https://alpha.school/), the platform our team builds delivers
+top-0.1% MAP scores with two hours of academics per day.
 
 ---
 
-## What I'm Doing Now
+## What I'm building right now
 
-### **Writing**
-- [Blog](https://blog.patrickskinner.tech)
-- [Substack](https://substack.com/@patskinner)
+- **[SkyFi-MCP-server](https://github.com/PSkinnerTech/SkyFi-MCP-server)** — Enterprise MCP server for satellite imagery (Python)
+- **[alpha-style](https://github.com/PSkinnerTech/alpha-style)** — AI design skill suite for Cursor, Claude Code, Codex, Gemini
+- **[local-eye-tracking](https://github.com/PSkinnerTech/local-eye-tracking)** — Privacy-first webcam attention tracking for learning apps
+- **[RankForge](https://github.com/PSkinnerTech/RankForge)** — Deterministic SEO/GEO audit CLI
+- **[hypercompare](https://github.com/PSkinnerTech/hypercompare)** — LLM benchmarking on speed, accuracy, and cost
+- **[ai-cost-intelligence](https://github.com/PSkinnerTech/ai-cost-intelligence)** — A/B test LLM prompts with statistical analysis
 
-### **Building**
-- [3d-asset-factory](https://github.com/PSkinnerTech/3d-asset-factory)
-- [openclaw-geo-seo-audit-skill](https://github.com/PSkinnerTech/openclaw-geo-seo-audit-skill)
-- [local-eye-tracking](https://github.com/PSkinnerTech/local-eye-tracking)
-- [mackenzie-voice-tool](https://github.com/PSkinnerTech/mackenzie-voice-tool)
-- [alpha-style](https://github.com/PSkinnerTech/alpha-style)
+## Background
 
-### **My Work**
-- General Manager @ [Superbuilders](https://superbuilders.dev)
-- Building for [Alpha School](https://alpha.school/)
-- Mentor and Lead Instructor at [Gauntlet AI](https://gauntletai.com)
+- 🪂 Former US Army Airborne Ranger Medic & Mass Casualty Coordinator
+- 🎓 Gauntlet AI S25 graduate · Network School Cohort 1
+- 🛠 Previously: Senior Developer Relations Engineer · Lead DevRel at Forward Research (Arweave)
+- 📚 Mentor and Lead Instructor at [Gauntlet AI](https://gauntletai.com)
+
+## Writing & talks
+
+- [patrickskinner.tech](https://patrickskinner.tech) — portfolio & case studies
+- [blog.patrickskinner.tech](https://blog.patrickskinner.tech) — engineering deep-dives
+- [Substack](https://substack.com/@patskinner) — learning science notes
+- [YouTube](https://youtube.com/@PSkinnerTech) — tutorials
+
+## Connect
+
+- 📧 [me@patrickskinner.tech](mailto:me@patrickskinner.tech)
+- 💼 [LinkedIn](https://www.linkedin.com/in/patrickaskinner/)
+- 🐦 [@PSkinnerTech on X](https://x.com/PSkinnerTech)
 
 ---
 
-## 🤝 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/patrickaskinner/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"></a>
-  <a href="mailto:me@patrickskinner.tech" target="_blank"><img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30"></a>
-  <a href="https://twitter.com/PSkinnerTech" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" height="30"></a>
-  <a href="https://www.instagram.com/patrickskinner.tech/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"></a>
-</p>
+![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSkinnerTech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSkinnerTech&hide_border=true&theme=default)
 
----
-
-_Last Updated: 6/3/2026_
+_Last updated: June 2026_
