@@ -37,6 +37,6 @@ On a mission to accelerate educational outcomes for 1 billion students.
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSkinnerTech&hide_border=true)
+![Patrick's 3D contribution chart](./profile-3d-contrib/profile-night-view.svg)
 
 _Last updated: June 2026_
