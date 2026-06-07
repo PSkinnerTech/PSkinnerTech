@@ -37,6 +37,6 @@ On a mission to accelerate educational outcomes for 1 billion students.
 
 ---
 
-![Patrick's 3D contribution chart](./profile-3d-contrib/profile-night-rainbow.svg)
+![Patrick's 3D contribution chart](./profile-3d-contrib/profile-green-animate.svg)
 
 _Last updated: June 2026_
