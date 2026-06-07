@@ -2,9 +2,7 @@
 
 **AI Engineer · Learning Science Engineer · Educator**
 
-Building AI tutoring infrastructure that helps students learn faster.
-At [Alpha School](https://alpha.school/), the platform our team builds delivers
-top-0.1% MAP scores with two hours of academics per day.
+On a mission to accelerate educational outcomes for 1 billion students.
 
 ---
 
@@ -39,7 +37,6 @@ top-0.1% MAP scores with two hours of academics per day.
 
 ---
 
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=PSkinnerTech&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=default)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSkinnerTech&hide_border=true&theme=default)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PSkinnerTech&hide_border=true)
 
 _Last updated: June 2026_
