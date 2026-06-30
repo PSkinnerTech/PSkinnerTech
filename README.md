@@ -4,6 +4,8 @@
 
 On a mission to accelerate educational outcomes for 1 billion students.
 
+[@naniskinner](https://github.com/naniskinner)'s lesser half.
+
 ---
 
 ## What I'm building right now
